@@ -2,12 +2,12 @@
   <defs>
     <style>
       .cls-1 {
-        font-size: 300px;
+        font-size: 66.667px;
         fill: #0048ff;
         font-family: "Exotc350 Bd BT";
         font-weight: 700;
       }
     </style>
   </defs>
-  <text id="Rocoto_Hosting" data-name="Rocoto Hosting" class="cls-1" transform="translate(9.883 69.843) scale(0.219)">Rocoto Hosting</text>
+  <text id="ROCOTO_HOSTING" data-name="ROCOTO HOSTING" class="cls-1" transform="matrix(0.77, 0, 0, 0.77, -1.511, 65.626)">ROCOTO HOSTING</text>
 </svg>
