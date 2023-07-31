@@ -2,16 +2,14 @@
 templateKey: index-page
 title: Web Hosting Handal Dengan Harga Terjangkau
 image: /img/circuit-board-v9sqijtzusq0u8hc.jpg
-heading: Great coffee with a conscience
+heading: Apakah ada Web Hosting Murah tetapi dengan Fiter Premium?
 subheading: dapatkan Web Hosting Premium dengan harga murah
 mainpitch:
   title: Kenapa Memilih Web hosting yang handal?
   description: Web hosting yang handal sangat penting karena menjadi pondasi utama
     dalam menjalankan situs web dengan lancar dan efisien.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Tentu saja, dengan Web hosting ini, anda bisa mengakses layanan
+  terbaik dengan harga terjangkau.
 intro:
   blurbs:
     - image: /img/coffee.png
